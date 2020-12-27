@@ -1,0 +1,9 @@
+*~
+__pycache__
+.idea
+Katsubo_Stas_ORM.egg-info/
+dist/
+docs/build
+*html
+setup/test_postgres_in_docker_setup
+venv/
