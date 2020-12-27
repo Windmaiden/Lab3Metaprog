@@ -1,3 +1,9 @@
+pypi.org 
+
+https://pypi.org/project/Katsubo-Stas-ORM/
+``
+pip install Katsubo-Stas-ORM
+``
 1. Run unit tests:
 ```
 python -m unittest discover -s test/py2sql/
