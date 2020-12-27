@@ -8,7 +8,7 @@ setuptools.setup(
     description="A toy ORM tool",
     long_description="This package is for interacting with PostgresQL via Python, mapping classes and objects onto the database.",
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/Windmaiden/Lab3Metaprog",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
